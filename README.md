@@ -19,6 +19,7 @@ Call the Python script 'lcount.py' and give it optional parameters for how to co
 ## Example Output:
 
 ```
+...
 [38]
     File: .\GitHub\MSTD\string_manipulation\trimzeros.m
     No. Lines: 140
