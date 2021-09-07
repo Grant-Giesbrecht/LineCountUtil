@@ -11,4 +11,4 @@ Call the Python script 'lcount.py' and give it optional parameters for how to co
 *Argument 4:* (True/False) Show detailed output? (default: True)
 
 ### Example: 
-`python lcount.py "./path/to/place/to/count/" "*.py" True False
+`python lcount.py "./path/to/place/to/count/" "*.py" True False`
