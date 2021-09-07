@@ -18,17 +18,19 @@ Call the Python script 'lcount.py' and give it optional parameters for how to co
 
 ## Example Output:
 
-  [38]
-      File: .\GitHub\MSTD\string_manipulation\trimzeros.m
-      No. Lines: 140
-  [39]
-      File: .\GitHub\MSTD\system\gethomedir.m
-      No. Lines: 45
-  [40]
-      File: .\GitHub\MSTD\system\loadConfig.m
-      No. Lines: 137
+```
+[38]
+    File: .\GitHub\MSTD\string_manipulation\trimzeros.m
+    No. Lines: 140
+[39]
+    File: .\GitHub\MSTD\system\gethomedir.m
+    No. Lines: 45
+[40]
+    File: .\GitHub\MSTD\system\loadConfig.m
+    No. Lines: 137
 
-  *****************************************
-  Total Number of Lines: 3.101K
-  Number of files: 44
-  Avg. Lines per File: 70.47727272727273
+*****************************************
+Total Number of Lines: 3.101K
+Number of files: 44
+Avg. Lines per File: 70.47727272727273
+```
